@@ -1,0 +1,167 @@
+/* All Pages */
+
+body {
+    background-color: #e5e5e5;
+    color: #000000
+}
+
+h3 {
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 40px;
+}
+
+h4 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+a {
+    color: #fff;
+}
+
+/* Footer */
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #14213d;
+    margin-top: 50px;
+}
+
+.copyright {
+    color: #e5e5e5;
+    font-size: 10px;
+}
+
+#find-me {
+    color: #fca311;
+}
+
+#social-links {
+    color: #fff;
+}
+
+#social-hr {
+    background-color: #fff;
+    height: 1px;
+    width: 20%;
+}
+
+/* Navbar - All Pages */
+
+.nav-custom {
+    background-color: #14213d;
+}
+
+.navbar {
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+}
+
+.navbar-brand {
+    font-size: 50px;
+}
+
+#navigation * {
+    color: #fca311;
+}
+
+/* About Me Page */
+
+.about-me {
+    width: 60%;
+    margin: 50px auto 50px auto;
+}
+
+.about-gambit {
+    width: 60%;
+    margin: 100px auto 200px auto;
+    padding-top: 50px;
+    clear: both;
+}
+
+#about-hr {
+    color: 1px;
+    background-color: #14213d;
+}
+
+.profile-pic {
+    float: left;
+    height: 150px;
+    width: 150px;
+    margin-right: 30px;
+}
+
+.gambit {
+    float: right;
+    height: 150px;
+    width: 150px;
+    margin-right: 30px;
+}
+
+/* Portfolio Page */
+
+img {
+    height: 350px;
+    width: 350px;
+}
+
+.portfolio {
+    width: 60%;
+    margin: 50px auto 100px auto;
+}
+
+.col-md-6 {
+    width: 350px;
+    height: 350px;
+    margin: 50px 0px 50px 0px;
+}
+
+.card-links {
+    color: #14213d;
+}
+
+/* Contact Me Page */
+
+.contact-me {
+    background-color: #14213d;
+    margin: 50px auto 0;
+    width: 35%;
+    text-align: center;
+    color: #ffffff;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.contact-form {
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+.submit {
+    padding: 10px 20px 11px !important;
+    font-size: 21px !important;
+    background-color: #fca311;
+    font-weight: bold;
+    text-shadow: 1px 1px #12413d;
+    color: #ffffff;
+    border-radius: 100px;
+    border: 1px solid #fca311;
+    cursor: pointer;
+}
+
+.form-group {
+    padding: 10px, 0, 10px, 0;
+}
+
+#contact-hr {
+    background-color: #ffffff;
+    height: 2px;
+    width: 75%;
+}
